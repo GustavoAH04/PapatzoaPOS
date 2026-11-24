@@ -1,0 +1,17 @@
+﻿Tipo;Codigo;Nombre;PrecioBase;Stock;StockMinimo;Campo1;Campo2;Campo3;Campo4
+Bebida;BEB-01;Café de Olla Tradicional;38.00;29;8;Olla de barro con canela;Mediano;Piloncillo;
+Bebida;BEB-02;Café Americano de Altura;35.00;35;8;Extracción artesanal Veracruz;Mediano;Natural;
+Bebida;BEB-03;Café en Prensa Francesa;45.00;20;6;Prensa francesa;Grande;Azúcar morena;
+Bebida;BEB-04;Chocolate de Metate;48.00;24;6;Batido tradicional con molinillo;Mediano;Piloncillo;
+Bebida;BEB-05;Té de Canela y Manzana;32.00;20;5;Infusión natural;Chico;Miel de abeja;
+Pan;PAN-01;Concha de Vainilla;22.00;23;6;Brioche artesanal;True;;
+Pan;PAN-02;Concha de Chocolate;22.00;20;6;Brioche con cacao;True;;
+Pan;PAN-03;Garibaldi Tradicional;25.00;16;5;Panqué de mantequilla y gragea;True;;
+Pan;PAN-04;Oreja de Hojaldre;20.00;18;5;Hojaldre caramelizado;True;;
+Pan;PAN-05;Polvorón de Nuez;18.00;22;6;Masa quebrada con nuez;True;;
+Panque;PNQ-01;Panqué de Nata Artesanal;42.00;18;5;Nata de rancho;Rebanada;True;False
+Panque;PNQ-02;Panqué de Elote Tierno;40.00;15;5;Elote fresco;Rebanada;True;False
+Panque;PNQ-03;Panqué de Nuez y Canela;44.00;14;5;Nuez tostada y canela;Rebanada;True;False
+Panque;PNQ-04;Panqué de Plátano Macho;38.00;11;4;Plátano caramelizado;Rebanada;True;False
+Panque;PNQ-05;Panqué de Zanahoria Casero;45.00;10;4;Zanahoria y especias;Rebanada;False;False
+Panque;PNQ-06;Panqué de Nata (Entero);240.00;4;2;Nata de rancho;Panqué entero;False;False
